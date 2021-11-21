@@ -8,4 +8,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am half finished
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaranChandekar&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaranChandekar&theme=radical_icons=true)
