@@ -1,11 +1,14 @@
-### Hola, I'm Karan Chandekar! 👋
+### Hola, 👋 It's me Karan Chandekar!
+
+I am a learner with huge passion in web development
 
 - 🔭 I’m currently working on my Skills
 - 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on JavaScript
 - 💬 Ask me about any tech related stuff
 - 📫 How to reach me: Twitter - @karan_chandekar
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am half finished
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaranChandekar&theme=radical_icons=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KaranChandekar&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaranChandekar&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
