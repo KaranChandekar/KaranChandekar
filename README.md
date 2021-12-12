@@ -1,6 +1,6 @@
 ### Hola, 👋 It's me Karan Chandekar!
 
-I am a learner with huge passion in web development
+I am a learner with huge passion in ❤ web development
 
 - 🔭 I’m currently working on my Skills
 - 🌱 I’m currently learning JavaScript
