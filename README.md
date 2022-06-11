@@ -1,4 +1,4 @@
-### Hola, 👋 It's me Karan Chandekar!
+### Hey, 👋 It's me Karan Chandekar!
 
 I am a learner with huge passion in ❤ web development
 
