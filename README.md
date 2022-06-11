@@ -2,7 +2,7 @@
 
 I am a learner with huge passion in ❤ web development
 
-- 🔭 I’m currently working on my Skills
+- 🔭 I’m currently learning Javascript
 - 🌱 I’m always learning new things related web development
 - 💬 Ask me about any tech related stuff
 - 📫 How to reach me: Twitter - @karan_chandekar
