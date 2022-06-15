@@ -5,6 +5,14 @@
 
 <br>
 
+
+<a href="https://github.com/KaranChandekar/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=KaranChandekar">
+</a>
+<a href="https://github.com/KaranChandekar?tab=followers"><img src="https://img.shields.io/github/followers/KaranChandekar?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<br>
+
 <img align="right" alt="Coding" width="350" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 ## <img src="https://i.postimg.cc/Wbq9jQMN/profile-logo.png" alt="Portfolio" width="40" height="40" align="center"/> About Me
@@ -41,6 +49,8 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS code" width="40" height="40"/> </a>
 </p>
 
+
+<br>
 <br>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=karanchandekar&theme=radical&hide_border=true" alt="karanchandekar" /></p>
