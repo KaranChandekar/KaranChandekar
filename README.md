@@ -19,11 +19,11 @@
 
 - 🔭 I’m currently working on **improving my skills**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 Personal portfolio: [My Portfolio](https://portfolio-me-karanchandekar.vercel.app/)
 
-- 💬 Ask me about **Web, MERN**
+- 💬 Ask me about **Web, FrontEnd**
 
 - 📫 How to reach me: **karanchandekar431@gmail.com**
 
