@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 Personal portfolio: [My Portfolio](https://portfolio-me-karanchandekar.vercel.app/)
+- 👨‍💻 Personal portfolio: **<a href="https://portfolio-me-karanchandekar.vercel.app/" target="_blank">Portfolio</a>**
 
 - 💬 Ask me about **Web, FrontEnd**
 
