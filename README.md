@@ -32,10 +32,11 @@
 
 ## Connect with me:
 
-<p align="left">
-<a href="https://linkedin.com/in/karan chandekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan chandekar" height="30" width="40" /></a>
-<a href="https://twitter.com/@karan_chandekar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@karan_chandekar" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <a href="https://linkedin.com/in/karan chandekar" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="karanchandekar431@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/@karan_chandekar"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-2CA5E0?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</div>
 
 
 ## 🚀 Languages and Tools:
