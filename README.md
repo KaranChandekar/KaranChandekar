@@ -5,7 +5,6 @@
 
 <br>
 
-
 <a href="https://github.com/KaranChandekar/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=KaranChandekar">
 </a>
@@ -40,6 +39,7 @@
 <a href="mailto:karanchandekar431@gmail.com" target="_blank"><img align="left" alt="Karan | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
 
 <br />
+<br />
 
 ---
 
@@ -66,7 +66,6 @@
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=karanchandekar&theme=radical&hide_border=true" alt="karanchandekar" /></p>
 
-
 ## 📊 My Github Stats
 
 <table>
@@ -85,7 +84,7 @@
 
 <a href="https://github.com/karanchandekar/github-readme-activity-graph"><img alt="Karan Chandekar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=karanchandekar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
   
-
 ```zsh
 >  check out my repos 👇
 ```
+   
