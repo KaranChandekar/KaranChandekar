@@ -35,7 +35,7 @@
 
 <a href="https://karanchandekar.netlify.app" target="_blank"><img align="left" alt="web portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
 <a href="https://twitter.com/karanchandekar1" target="_blank"><img align="left" alt="Karan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://linkedin.com/in/karan chandekar" target="_blank"><img align="left" alt="Karan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.linkedin.com/in/karan-chandekar-a87263219/" target="_blank"><img align="left" alt="Karan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.instagram.com/karan.21.10/" target="_blank"><img align="left" alt="Karan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <a href="mailto:karanchandekar431@gmail.com" target="_blank"><img align="left" alt="Karan | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
 
