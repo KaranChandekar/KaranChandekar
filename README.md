@@ -32,11 +32,9 @@
 
 ## Connect with me:
 
-<a href="https://karanchandekar.netlify.app" target="_blank"><img align="left" alt="web portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
-<a href="https://twitter.com/karanchandekar1" target="_blank"><img align="left" alt="Karan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/twitter.svg" /></a>
-<a href="https://www.linkedin.com/in/karan-chandekar-a87263219/" target="_blank"><img align="left" alt="Karan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/linkedin.svg" /></a>
-<a href="https://www.instagram.com/karan.21.10/" target="_blank"><img align="left" alt="Karan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/instagram.svg" /></a>
-<a href="mailto:karanchandekar431@gmail.com" target="_blank"><img align="left" alt="Karan | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/gmail.svg" /></a>
+<a href="https://twitter.com/karanchandekar1" target="_blank"><img align="left" alt="Karan | Twitter" src="https://skillicons.dev/icons?i=twitter" /></a>
+<a href="https://www.linkedin.com/in/karan-chandekar-a87263219/" target="_blank"><img align="left" alt="Karan | LinkedIn" src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.instagram.com/karan.21.10/" target="_blank"><img align="left" alt="Karan | Instagram" src="https://skillicons.dev/icons?i=instagram" /></a>
 
 <br />
 <br />
