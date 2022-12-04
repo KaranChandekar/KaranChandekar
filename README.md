@@ -68,7 +68,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/karanchandekar/github-readme-activity-graph"><img alt="Karan Chandekar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=karanchandekar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+[![Karan's github activity graph](https://activity-graph.herokuapp.com/graph?username=KaranChandekar&theme=dracula)](https://github.com/KaranChandekar/github-readme-activity-graph)
   
 ```zsh
 >  check out my repos 👇
