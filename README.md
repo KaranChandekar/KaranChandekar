@@ -33,10 +33,10 @@
 ## Connect with me:
 
 <a href="https://karanchandekar.netlify.app" target="_blank"><img align="left" alt="web portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
-<a href="https://twitter.com/karanchandekar1" target="_blank"><img align="left" alt="Karan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://www.linkedin.com/in/karan-chandekar-a87263219/" target="_blank"><img align="left" alt="Karan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://www.instagram.com/karan.21.10/" target="_blank"><img align="left" alt="Karan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<a href="mailto:karanchandekar431@gmail.com" target="_blank"><img align="left" alt="Karan | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+<a href="https://twitter.com/karanchandekar1" target="_blank"><img align="left" alt="Karan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/twitter.svg" /></a>
+<a href="https://www.linkedin.com/in/karan-chandekar-a87263219/" target="_blank"><img align="left" alt="Karan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/linkedin.svg" /></a>
+<a href="https://www.instagram.com/karan.21.10/" target="_blank"><img align="left" alt="Karan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/instagram.svg" /></a>
+<a href="mailto:karanchandekar431@gmail.com" target="_blank"><img align="left" alt="Karan | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.21.0/icons/gmail.svg" /></a>
 
 <br />
 <br />
@@ -45,19 +45,7 @@
 
 ## 🚀 Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="Tailwind" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
-<img align="left" alt="SASS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Express.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-<img align="left" alt="NPM" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,sass,nodejs,express,git,github,vscode" />
 
 <br />
 <br />
