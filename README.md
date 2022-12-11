@@ -17,15 +17,10 @@
 ## <img src="https://i.postimg.cc/Wbq9jQMN/profile-logo.png" alt="Portfolio" width="40" height="40" align="center"/> About Me
 
 - 🔭 I’m currently working on **improving my skills**
-
 - 🌱 I’m currently learning **React**
-
 - 👨‍💻 Personal portfolio: **<a href="https://portfolio-me-karanchandekar.vercel.app/" target="_blank">Portfolio</a>**
-
 - 💬 Ask me about **Web, FrontEnd**
-
 - 📫 How to reach me: **karanchandekar431@gmail.com**
-
 - ⚡ Fun fact **I am half finished**
 
 ---
