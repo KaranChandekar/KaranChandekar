@@ -62,8 +62,6 @@
 
 <br/>
 <br/>
-
-[![Karan's github activity graph](https://activity-graph.herokuapp.com/graph?username=KaranChandekar&theme=dracula)](https://github.com/KaranChandekar/github-readme-activity-graph)
   
 ```zsh
 >  check out my repos 👇
