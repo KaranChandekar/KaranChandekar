@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on **improving my skills**
 - 🌱 I’m currently learning **React**
-- 👨‍💻 Personal portfolio: **<a href="https://portfolio-me-karanchandekar.vercel.app/" target="_blank">Portfolio</a>**
+- 👨‍💻 Personal portfolio: **<a href="https://karanchandekar.netlify.app/" target="_blank">Portfolio</a>**
 - 💬 Ask me about **Web, FrontEnd**
 - 📫 How to reach me: **karanchandekar431@gmail.com**
 - ⚡ Fun fact **I am half finished**
