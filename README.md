@@ -2,9 +2,7 @@
 
 <h1 align="center">Hey👋, I'm Karan!</h1>
 <h3 align="center">A passionate frontend developer ❤ from India</h3>
-
 <br>
-
 <a href="https://github.com/KaranChandekar/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=KaranChandekar">
 </a>
