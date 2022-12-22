@@ -7,9 +7,7 @@
     <img src="https://komarev.com/ghpvc/?username=KaranChandekar">
 </a>
 <a href="https://github.com/KaranChandekar?tab=followers"><img src="https://img.shields.io/github/followers/KaranChandekar?label=Followers&style=social" alt="GitHub Badge"></a>
-
 <br>
-
 <img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 ## <img src="https://i.postimg.cc/Wbq9jQMN/profile-logo.png" alt="Portfolio" width="40" height="40" align="center"/> About Me
