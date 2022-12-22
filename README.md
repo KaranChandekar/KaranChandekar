@@ -46,7 +46,6 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=karanchandekar&theme=radical&hide_border=true" alt="karanchandekar" /></p>
 
 ## 📊 My Github Stats
-
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=karanchandekar&show_icons=true&locale=en&theme=radical&hide_border=true" alt="karanchandekar" /></td>
