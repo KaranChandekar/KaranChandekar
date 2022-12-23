@@ -15,7 +15,6 @@
 - 💬 Ask me about **Web, FrontEnd**
 - 📫 How to reach me: **karanchandekar431@gmail.com**
 - ⚡ Fun fact **I am half finished**
-
 ---
 
 ## Connect with me:
