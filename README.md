@@ -16,7 +16,6 @@
 - 📫 How to reach me: **karanchandekar431@gmail.com**
 - ⚡ Fun fact **I am half finished**
 ---
-
 ## Connect with me:
 <a href="https://twitter.com/karanchandekar1" target="_blank"><img align="left" alt="Karan | Twitter" src="https://skillicons.dev/icons?i=twitter" /></a>
 <a href="https://www.linkedin.com/in/karan-chandekar-a87263219/" target="_blank"><img align="left" alt="Karan | LinkedIn" src="https://skillicons.dev/icons?i=linkedin" /></a>
