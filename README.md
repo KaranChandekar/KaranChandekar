@@ -15,7 +15,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-## <img src="https://i.postimg.cc/Wbq9jQMN/profile-logo.png" alt="Portfolio" width="40" height="40" align="center"/> About Me
+## <img src="https://karanchandekar.netlify.app/img/karan-wave.png" alt="Portfolio" width="100" align="center"/> About Me
 - 🔭 I’m currently working on **improving my skills**
 - 🌱 I’m currently learning **React**
 - 👨‍💻 Personal portfolio: **<a href="https://karanchandekar.netlify.app/" target="_blank">Portfolio</a>**
