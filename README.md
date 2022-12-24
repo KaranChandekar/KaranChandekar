@@ -9,7 +9,6 @@
 <a href="https://github.com/KaranChandekar/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=KaranChandekar">
 </a>
-
 <a href="https://github.com/KaranChandekar?tab=followers"><img src="https://img.shields.io/github/followers/KaranChandekar?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <br>
