@@ -49,6 +49,7 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=karanchandekar&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="karanchandekar" /></td
   </tr>
 </table>
+    
 <br>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
