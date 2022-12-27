@@ -54,9 +54,10 @@
 <br>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br/>
-<br/>
+    
+---
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=KaranChandekar&theme=radical&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
   
 ```zsh
 >  check out my repos 👇
