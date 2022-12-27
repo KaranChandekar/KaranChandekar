@@ -11,7 +11,7 @@
 
 <br>
 
-<img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="200" height="auto"/> </a>
 
 ## <img src="https://karanchandekar.netlify.app/img/karan-wave.png" alt="Portfolio" width="60" align="center"/> About Me
 - 🔭 I’m currently working on **improving my skills**
