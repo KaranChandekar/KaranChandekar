@@ -23,24 +23,23 @@
 
 ---
 
-## 🔗 Connect with me:
+## 🔗 Connect with me
 <a href="https://twitter.com/karanchandekar1" target="_blank"><img align="left" alt="Karan | Twitter" src="https://skillicons.dev/icons?i=twitter" /></a>
 <a href="https://www.linkedin.com/in/karan-chandekar-a87263219/" target="_blank"><img align="left" alt="Karan | LinkedIn" src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://www.instagram.com/karanchandekar21/" target="_blank"><img align="left" alt="Karan | Instagram" src="https://skillicons.dev/icons?i=instagram" /></a>
 
 <br />
 <br />
+<br />
 
----
-
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools
 <img align="left" src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,sass,nodejs,express,git,github,vscode" />
 
 <br />
 <br />
+<br />
 
----
-
+## 🔥 My Github Streak
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=karanchandekar&theme=radical&hide_border=true" alt="karanchandekar" /></p>
 
 ## 📊 My Github Stats
@@ -50,14 +49,15 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=karanchandekar&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="karanchandekar" /></td
   </tr>
 </table>
-    
-<br>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
     
----
-  
+<br />
+    
+## 🏆 My Github Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=KaranChandekar&theme=radical&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+    
+<br />
   
 ```zsh
 >  check out my repos 👇
