@@ -30,10 +30,12 @@
 
 <br />
 <br />
+<br />
 
 ## 🚀 Languages and Tools
 <img align="left" src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,sass,nodejs,express,git,github,vscode" />
 
+<br />
 <br />
 <br />
 
@@ -49,6 +51,8 @@
 </table>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+    
+<br />
     
 ## 🏆 My Github Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=KaranChandekar&theme=radical&row=1&margin-w=20&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
