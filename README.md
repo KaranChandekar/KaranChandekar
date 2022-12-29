@@ -53,8 +53,6 @@
 ## 🏆 My Github Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=KaranChandekar&theme=radical&row=1&margin-w=20&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
     
-<br />
-    
 ## 📈 My Github Activity Graph
 [![Karan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KaranChandekar&theme=react-dark)](https://github.com/KaranChandekar/github-readme-activity-graph)
   
