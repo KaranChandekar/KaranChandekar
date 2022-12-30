@@ -54,6 +54,10 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=karanchandekar&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="karanchandekar" /></td
   </tr>
 </table>
+    
+<br />
+    
+## 🐍 My Github Contribution Graph
 
 ![snake gif](https://github.com/KaranChandekar/KaranChandekar/blob/output/github-contribution-grid-snake.svg)
 
