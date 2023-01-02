@@ -4,14 +4,16 @@
 
 <br>
 
+<div align="center">
 <a href="https://github.com/KaranChandekar/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=KaranChandekar">
 </a>
 <a href="https://github.com/KaranChandekar?tab=followers"><img src="https://img.shields.io/github/followers/KaranChandekar?label=Followers&style=social" alt="GitHub Badge"></a>
+</div>
 
 <br>
 
-<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
+<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="200" height="auto"/> </a>
 
 ## <img src="https://karanchandekar.netlify.app/img/karan-wave.png" alt="Portfolio" width="60" align="center"/> About Me
 
@@ -55,14 +57,20 @@
   </tr>
 </table>
 
-![snake gif](https://github.com/KaranChandekar/KaranChandekar/blob/output/github-contribution-grid-snake.gif)
-
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+    
+<br />
+    
+## 🐍 My Github Contribution Graph
 
+![snake gif](https://github.com/KaranChandekar/KaranChandekar/blob/output/github-contribution-grid-snake.svg)
+    
 <br />
     
 ## 🏆 My Github Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=KaranChandekar&theme=radical&row=1&margin-w=20&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br />
     
 ## 📈 My Github Activity Graph
 [![Karan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KaranChandekar&theme=react-dark)](https://github.com/KaranChandekar/github-readme-activity-graph)
