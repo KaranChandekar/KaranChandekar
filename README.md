@@ -29,7 +29,7 @@
 
 ## 🎧 Spotify Playing 
 
-[![Spotify](https://novatorem-bice-seven.vercel.app/api/spotify)](https://open.spotify.com/user/27e6abcfb26d4a08b008ac283778edd1)
+[![Spotify](https://novatorem-bice-seven.vercel.app/api/spotify)](https://open.spotify.com/user/Karan.)
 
 ---
 
