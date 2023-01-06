@@ -1,6 +1,7 @@
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Karan!</h1>
 
-<h3 align="center">A passionate frontend developer ❤ from India</h3>
+<h3 align="center">🖤❤💜</h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Front+End+Developer+From+India+%3A)" /> </h3>
 
 <br>
 
