@@ -92,6 +92,8 @@ if (isAwesome) {
 Leave a ⭐ from [here](https://github.com/KaranChandekar/KaranChandekar) if you like it 😁
     
 <br />
+
+[![Spotify](https://novatorem-bice-seven.vercel.app/api/spotify)](https://open.spotify.com/user/27e6abcfb26d4a08b008ac283778edd1)
     
 ```zsh
 >  check out my repos 👇
