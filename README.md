@@ -83,8 +83,6 @@
 [![Karan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KaranChandekar&theme=react-dark)](https://github.com/KaranChandekar/github-readme-activity-graph)
   
 <br />
-    
----
 
 ```javascript
 if (isAwesome) {
@@ -93,7 +91,7 @@ if (isAwesome) {
 }
 ```
 
----
+<br />
 
 Leave a ⭐ from [here](https://github.com/KaranChandekar/KaranChandekar) if you like it 😁
     
