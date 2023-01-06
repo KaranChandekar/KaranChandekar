@@ -78,6 +78,21 @@
   
 <br />
     
+---
+
+```javascript
+if (isAwesome) {
+  // thanks in advance :p
+  starThisRepository();
+}
+```
+
+---
+
+Leave a ⭐ from [here](https://github.com/KaranChandekar/KaranChandekar) if you like it 😁
+    
+<br />
+    
 ```zsh
 >  check out my repos 👇
 ```
