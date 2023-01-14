@@ -59,8 +59,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=karanchandekar&show_icons=true&locale=en&theme=radical&hide_border=true" alt="karanchandekar" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=karanchandekar&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="karanchandekar" /></td
+    <td><img src="https://github-readme-stats.vercel.app/api?username=karanchandekar&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="karanchandekar" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=karanchandekar&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="karanchandekar" /></td
   </tr>
 </table>
 
