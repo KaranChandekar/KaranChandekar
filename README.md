@@ -1,6 +1,11 @@
 # 🏄‍♂️ Karan Chandekar
 
+<<<<<<< HEAD
 **`FrontEnd Developer (Developer/Designer/Creator)`**
+=======
+<h3 align="center">🖤❤💜</h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Front+End+Developer+From+India+%3A)" /> </h3>
+>>>>>>> 34fce5dbf36f077173ee85151ac92489dac5cbfc
 
 I'm an indie front-end developer and designer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. From ideation and planning, all the way to finalizing the project with artistic touches. I post my projects content and learnings on my Linkedin profile "[KaranChandekar](https://www.linkedin.com/in/karan-chandekar-a87263219/)" to more than 2k followers.
 
@@ -23,6 +28,12 @@ I'm an indie front-end developer and designer building my version of the digital
 - 💬 Ask me about **Web, FrontEnd**
 - 📫 How to reach me: **karanchandekar431@gmail.com**
 - ⚡ Fun fact **I am half finished**
+
+<br />
+
+## 🎧 Spotify Playing 
+
+[![Spotify](https://novatorem-bice-seven.vercel.app/api/spotify)](https://open.spotify.com/user/Karan.)
 
 ---
 
@@ -59,7 +70,17 @@ I'm an indie front-end developer and designer building my version of the digital
 
 #
 
+<<<<<<< HEAD
 ### 🔥 My Github Streak
+=======
+<img align="left" src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,sass,nodejs,express,git,github,vscode" />
+
+<br />
+<br />
+<br />
+
+## 🔥 My Github Streak
+>>>>>>> 34fce5dbf36f077173ee85151ac92489dac5cbfc
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=karanchandekar&theme=radical&hide_border=true" alt="karanchandekar" /></p>
 
@@ -67,8 +88,8 @@ I'm an indie front-end developer and designer building my version of the digital
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=karanchandekar&show_icons=true&locale=en&theme=radical&hide_border=true" alt="karanchandekar" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=karanchandekar&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="karanchandekar" /></td
+    <td><img src="https://github-readme-stats.vercel.app/api?username=karanchandekar&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="karanchandekar" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=karanchandekar&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="karanchandekar" /></td
   </tr>
 </table>
 
@@ -90,6 +111,19 @@ I'm an indie front-end developer and designer building my version of the digital
 ## 📈 My Github Activity Graph
 [![Karan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KaranChandekar&theme=react-dark)](https://github.com/KaranChandekar/github-readme-activity-graph)
   
+<br />
+
+```javascript
+if (isAwesome) {
+  // thanks in advance :p
+  starThisRepository();
+}
+```
+
+<br />
+
+Leave a ⭐ from [here](https://github.com/KaranChandekar/KaranChandekar) if you like it 😁
+    
 <br />
     
 ```zsh
