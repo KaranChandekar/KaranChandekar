@@ -22,7 +22,7 @@ I'm an indie front-end developer and designer building my version of the digital
 - 👨‍💻 Personal portfolio: **<a href="https://karanchandekar.netlify.app/" target="_blank">Portfolio</a>**
 - 💬 Ask me about **Web, FrontEnd**
 - 📫 How to reach me: **karanchandekar431@gmail.com**
-- ⚡ Fun fact **I am half finished**
+- ⚡ Fun fact **I am deeply in love with Tailwind ❤️**
 
 ---
 
