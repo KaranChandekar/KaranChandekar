@@ -15,7 +15,7 @@ I'm an indie front-end developer and designer building my version of the digital
 
 <a href="https://ko-fi.com/karanchandekar"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
-### 🚀 Some key points
+### 🚀 More about me
 
 - 🔭 I’m always working on **improving my skills**
 - 🌱 I’m currently learning **React**
