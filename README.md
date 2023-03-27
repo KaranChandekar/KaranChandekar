@@ -48,6 +48,7 @@ I'm an indie front-end developer and designer building my version of the digital
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 <a href="mailto:karanchandekar431@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
+    
 #
 
 ### 🧰 Languages and Tools
