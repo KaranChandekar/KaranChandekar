@@ -79,6 +79,7 @@ I'm an indie front-end developer and designer building my version of the digital
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=karanchandekar&theme=radical&hide_border=true" alt="karanchandekar" /></p>
 
 #
+    
 ### 📊 My Github Stats
 
 <table>
