@@ -92,6 +92,7 @@ I'm an indie front-end developer and designer building my version of the digital
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 #   
+
 ### 🐍 My Github Contribution Graph
 
 ![snake gif](https://github.com/KaranChandekar/KaranChandekar/blob/output/github-contribution-grid-snake.svg)
