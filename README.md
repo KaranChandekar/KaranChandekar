@@ -69,57 +69,14 @@ I'm an indie front-end developer and designer building my version of the digital
 <img align="left" alt="VsCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 <br />
-
-#
-    
-### 🔥 My Github Streak
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=karanchandekar&theme=radical&hide_border=true" alt="karanchandekar" /></p>
-
-#
-    
-### 📊 My Github Stats
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=karanchandekar&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="karanchandekar" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=karanchandekar&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="karanchandekar" /></td
-  </tr>
-</table>
-
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-#   
-
-### 🐍 My Github Contribution Graph
-
-![snake gif](https://github.com/KaranChandekar/KaranChandekar/blob/output/github-contribution-grid-snake.svg)
-
-#
-    
-### 🏆 My Github Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=KaranChandekar&theme=radical&row=1&margin-w=20&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-#
-    
-### 📈 My Github Activity Graph
-[![Karan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KaranChandekar&theme=react-dark)](https://github.com/KaranChandekar/github-readme-activity-graph)
-  
-#
-    
-```javascript
-if (isAwesome) {
-  // thanks in advance :p
-  starThisRepository();
-}
-```
-
-Leave a ⭐ from [here](https://github.com/KaranChandekar/KaranChandekar) if you like it 😁
+<br />
    
+#
+
 ```zsh
 >  Read my Coding Journey 👇
 ```
-#
+    
 <details>
  <summary><h3>👨‍💻 Karan's Coding Journey</h3></summary>
    I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself web development with a dream to build my own sites, but that soon got overshadowed by my desire to excel in frontend. A desire that landed me a first frontend developer internship upon graduation. I started learning web development in October 2021 when I am in 1st year of college. After all that struggle with college studies and besides that learning web development I got my first remote paid internship in October 2022 :) Perfect afte one year. Got this opportunity from linkedin where I got direct message from the CEO of one of the startup named ucpi.tech (web3 startup). He told me that he gone through me linkedin profile and quite impressed with it because I am consistently posting all my projects and learning ever since I started learning web development. In this internship I created more than 3 websites that are live. Created an official website for the company - <a href="https://ucpi.tech">ucpi.tech</a> and two more for their products. After 2 months their is no work for frontend developer so I quite my internship from their. After one month of the gap I got a message from same CEO that one of his friend needed a frontend intern for their agency and he told him all about me and my work. After 2 days I started my next internship in this new company named YoungNomads (Digital Marketing Company). And currently working in this agency. That's all about my coding and web development journey. Hope you like it. Thanks for your valuable time :)
