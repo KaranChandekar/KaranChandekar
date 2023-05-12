@@ -24,10 +24,6 @@ I'm an indie front-end developer and designer building my version of the digital
 
 ---
 
-### 🎧 Spotify Playing
-
-[![Spotify](https://novatorem-bice-seven.vercel.app/api/spotify)](https://open.spotify.com/user/Karan.)
-
 #
 
 ### 🔗 Connect with me
