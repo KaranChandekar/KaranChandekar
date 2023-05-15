@@ -24,8 +24,6 @@ I'm an indie front-end developer and designer building my version of the digital
 
 ---
 
-#
-
 ### 🔗 Connect with me
 
 <div align="left">
