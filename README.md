@@ -17,7 +17,7 @@ I'm an indie front-end developer and designer building my version of the digital
 
 - 🔭 I’m always working on **improving my skills**
 - 🌱 I’m currently learning **React**
-- 👨‍💻 Personal portfolio: **<a href="https://karanchandekar.netlify.app/" target="_blank">Portfolio</a>**
+- 👨‍💻 Personal portfolio: **<a href="https://karanchandekar.vercel.app/" target="_blank">Portfolio</a>**
 - 💬 Ask me about **Web, FrontEnd**
 - 📫 How to reach me: **karanchandekar431@gmail.com**
 - ⚡ Fun fact **I am deeply in love with Tailwind ❤️**
@@ -110,4 +110,21 @@ Leave a ⭐ from [here](https://github.com/KaranChandekar/KaranChandekar) if you
 #
 <details>
  <summary><h3>👨‍💻 Karan's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself web development with a dream to build my own sites, but that soon got overshadowed by my desire to excel in frontend. A desire that landed me a first frontend developer internship upon graduation. I started learning web development in October 2021 when I am in 1st year of college. After all that struggle with college studies and besides that learning web development I got my first remote paid internship in October 2022 :) Perfect afte one year. Got this opportunity from linkedin where I got direct message from the CEO of one of the startup named ucpi.tech (web3 startup). He told me that he gone through me linkedin profile and quite impressed with it because I am consistently posting all my projects and learning ever since I started learning web development. In this internship I created more than 3 websites that are live. Created an official website for the company - <a href="https://ucpi.tech">ucpi.tech</a> and two more for their products. After 2 months their is no work for frontend developer so I quite my internship from their. After one month of the gap I got a message from same CEO that one of his friend needed a frontend intern for their agency and he told him all about me and my work. After 2 days I started my next internship in this new company named YoungNomads (Digital Marketing Company). And currently working in this agency. That's all about my coding and web development journey. Hope you like it. Thanks for your valuable time :)
+
+👋 Hello there! Welcome to my GitHub profile! 👨‍💻
+
+
+I'm Karan Chandekar, a passionate frontend developer with a love for creating captivating web experiences. 🚀 I started my coding journey as a wide-eyed computer science student, eager to delve into the world of programming, code, Unix, Linux, and theory. Alongside my college studies, I embarked on a self-taught web development adventure, fueled by the dream of building my own websites. 🌐
+
+Fast forward to October 2021, during my first year of college, when I began my web development journey. It wasn't long before my focus shifted towards frontend development, igniting a fiery desire within me to excel in this domain. This passion eventually led me to secure my first frontend developer internship right in my 2nd year of graduation. 🎓
+
+In October 2022, after a year of dedicated learning, I landed my first remote paid internship through LinkedIn. The CEO of ucpi.tech, a remarkable web3 startup, reached out to me, impressed by my LinkedIn profile and consistent project updates. During this internship, I had the opportunity to create multiple live websites, including the official company website at [ucpi.tech](https://ucpi.tech), along with two others for their innovative products. 🌟
+
+After two months, as the frontend workload diminished, I moved on from ucpi.tech. However, fate had another exciting opportunity in store for me. The same CEO introduced me to a friend who needed a frontend intern for their agency. Within days, I joined YoungNomads, a dynamic Digital Marketing Company, where I honed my skills for an enriching month-long experience. 💼
+
+Following my tenure at YoungNomads, I embarked on a fulfilling six-month journey as a frontend intern at StampMyVisa. This valuable experience further enriched my skills, allowing me to refine my craft and contribute to the development of impactful web applications. 💡
+
+That's a brief overview of my coding and web development journey so far! I'm constantly learning and growing, eager to take on new challenges and make a meaningful impact. Thank you for taking the time to explore my profile, and feel free to reach out if you'd like to collaborate or discuss exciting frontend opportunities! 🌟
+
+Cheers! 🎉
+Karan Chandekar
