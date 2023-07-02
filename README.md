@@ -120,9 +120,9 @@ Fast forward to October 2021, during my first year of college, when I began my w
 
 In October 2022, after a year of dedicated learning, I landed my first remote paid internship through LinkedIn. The CEO of ucpi.tech, a remarkable web3 startup, reached out to me, impressed by my LinkedIn profile and consistent project updates. During this internship, I had the opportunity to create multiple live websites, including the official company website at [ucpi.tech](https://ucpi.tech), along with two others for their innovative products. 🌟
 
-After two months, as the frontend workload diminished, I moved on from ucpi.tech. However, fate had another exciting opportunity in store for me. The same CEO introduced me to a friend who needed a frontend intern for their agency. Within days, I joined YoungNomads, a dynamic Digital Marketing Company, where I honed my skills for an enriching month-long experience. 💼
+After two months, as the frontend workload diminished, I moved on from ucpi.tech. However, fate had another exciting opportunity in store for me. The same CEO introduced me to a friend who needed a frontend intern for their agency. Within days, I joined [YoungNomads](https://visibilityventures.co), a dynamic Digital Marketing Company, where I honed my skills for an enriching month-long experience. 💼
 
-Following my tenure at YoungNomads, I embarked on a fulfilling six-month journey as a frontend intern at StampMyVisa. This valuable experience further enriched my skills, allowing me to refine my craft and contribute to the development of impactful web applications. 💡
+Following my tenure at YoungNomads, I embarked on a fulfilling six-month journey as a frontend developer intern at [StampMyVisa](https://stampmyvisa.com). This valuable experience further enriched my skills, allowing me to refine my craft and contribute to the development of impactful web applications. 💡
 
 That's a brief overview of my coding and web development journey so far! I'm constantly learning and growing, eager to take on new challenges and make a meaningful impact. Thank you for taking the time to explore my profile, and feel free to reach out if you'd like to collaborate or discuss exciting frontend opportunities! 🌟
 
