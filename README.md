@@ -127,4 +127,5 @@ Following my tenure at YoungNomads, I embarked on a fulfilling six-month journey
 That's a brief overview of my coding and web development journey so far! I'm constantly learning and growing, eager to take on new challenges and make a meaningful impact. Thank you for taking the time to explore my profile, and feel free to reach out if you'd like to collaborate or discuss exciting frontend opportunities! 🌟
 
 Cheers! 🎉
+
 Karan Chandekar
