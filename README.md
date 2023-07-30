@@ -1,7 +1,9 @@
 # 🏄‍♂️ Karan Chandekar
 **`FrontEnd Developer (Developer/Designer/Creator)`** 🖤❤💜
 
-I'm an indie front-end developer and designer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. From ideation and planning, all the way to finalizing the project with artistic touches. I post my projects content and learnings on my Linkedin profile "[KaranChandekar](https://www.linkedin.com/in/karan-chandekar-a87263219/)" with more than 3k followers. I always try to beat previous me and make myself better day by day, giving my best to learn and acquire top skills and become a great developer. 🎯
+Experienced Frontend Developer proﬁcient in JavaScript, Tailwind CSS and ReactJS. Passionate about creating visually appealing and
+user-friendly web applications. Strong attention to detail and collaborative team player. Constantly learning and adapting to stay ahead
+in the ever-evolving world of web development.
 
 <p align="left">
 <a href="https://github.com/KaranChandekar/github-profile-views-counter">
