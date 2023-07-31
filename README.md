@@ -1,5 +1,6 @@
 # 🏄‍♂️ Karan Chandekar
-**`FrontEnd Developer (Developer/Designer/Creator)`** 🖤❤💜
+
+**`FrontEnd Developer (Developer/Designer/Creator)`**
 
 Experienced Frontend Developer proﬁcient in JavaScript, Tailwind CSS and ReactJS. Passionate about creating visually appealing and
 user-friendly web applications. Strong attention to detail and collaborative team player. Constantly learning and adapting to stay ahead
@@ -36,12 +37,11 @@ in the ever-evolving world of web development.
 <a href="https://linkedin.com/in/karan-chandekar-a87263219/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
- <a href="https://github.com/KaranChandekar" target="_blank">
+<a href="https://github.com/KaranChandekar" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/karanchandekar21" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-<a href="mailto:karanchandekar431@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:karanchandekar431@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </div>
     
 #
@@ -68,7 +68,7 @@ in the ever-evolving world of web development.
 <br />
 
 #
-    
+
 ### 📊 My Github Stats
 
 <table>
@@ -78,44 +78,12 @@ in the ever-evolving world of web development.
   </tr>
 </table>
 
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-#   
-
-### 🐍 My Github Contribution Graph
-
-![snake gif](https://github.com/KaranChandekar/KaranChandekar/blob/output/github-contribution-grid-snake.svg)
-
 #
-    
-### 🏆 My Github Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=KaranChandekar&theme=radical&row=1&margin-w=20&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-#
-    
-### 📈 My Github Activity Graph
-[![Karan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KaranChandekar&theme=react-dark)](https://github.com/KaranChandekar/github-readme-activity-graph)
-  
-#
-    
-```javascript
-if (isAwesome) {
-  // thanks in advance :p
-  starThisRepository();
-}
-```
-
-Leave a ⭐ from [here](https://github.com/KaranChandekar/KaranChandekar) if you like it 😁
-   
-```zsh
->  Read my Coding Journey 👇
-```
-#
 <details>
- <summary><h3>👨‍💻 Karan's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 Read my Coding Journey 👇</h3></summary>
 
 👋 Hello there! Welcome to my GitHub profile! 👨‍💻
-
 
 I'm Karan Chandekar, a passionate frontend developer with a love for creating captivating web experiences. 🚀 I started my coding journey as a wide-eyed computer science student, eager to delve into the world of programming, code, Unix, Linux, and theory. Alongside my college studies, I embarked on a self-taught web development adventure, fueled by the dream of building my own websites. 🌐
 
