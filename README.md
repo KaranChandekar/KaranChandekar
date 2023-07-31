@@ -15,19 +15,6 @@ in the ever-evolving world of web development.
 
 #
 
-<a href="https://ko-fi.com/karanchandekar"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
-
-### 🚀 More about me
-
-- 🔭 I’m always working on **improving my skills**
-- 🌱 I’m currently learning **React**
-- 👨‍💻 Personal portfolio: **<a href="https://karanchandekar.vercel.app/" target="_blank">Portfolio</a>**
-- 💬 Ask me about **Web, FrontEnd**
-- 📫 How to reach me: **karanchandekar431@gmail.com**
-- ⚡ Fun fact **I am deeply in love with Tailwind ❤️**
-
----
-
 ### 🔗 Connect with me
 
 <div align="left">
