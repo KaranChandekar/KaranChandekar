@@ -10,10 +10,8 @@ MERN Stack Developer adept at crafting dynamic web solutions. Proficient in Mong
 
 ### 🚀 More about me
 
-- 🌱 I’m currently learning **Fullstack Development**
 - 👨‍💻 Personal portfolio: **<a href="https://karanchandekar.vercel.app/" target="_blank">Portfolio</a>**
 - 📫 How to reach me: **karanchandekar431@gmail.com**
-- ⚡ Fun fact **I am deeply in love with Tailwind ❤️**
 
 ---
 
