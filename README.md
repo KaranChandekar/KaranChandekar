@@ -6,8 +6,6 @@ MERN Stack Developer adept at crafting dynamic web solutions. Proficient in Mong
 
 #
 
-<a href="https://ko-fi.com/karanchandekar"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
-
 ### 🚀 More about me
 
 - 👨‍💻 Personal portfolio: **<a href="https://karanchandekar.vercel.app/" target="_blank">Portfolio</a>**
