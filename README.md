@@ -1,8 +1,10 @@
 # 🏄‍♂️ Karan Chandekar
 
-**`MERN Stack Developer`**
+**`Software Engineer`**
 
-MERN Stack Developer adept at crafting dynamic web solutions. Proficient in MongoDB, Express.js, React, and Node.js, with a keen focus on delivering seamless user experiences. Passionate about integrating cutting-edge technologies to build robust and efficient applications. Collaborative team member with a drive to continuously expand skills and stay at the forefront of modern web development trends.
+🚀 Software Engineer building AI-native products.
+3 years shipping production-grade apps — from real-time collab editors to autonomous research agents.
+React · Next.js · TypeScript · LLMs · RAG
 
 #
 
